@@ -8,6 +8,7 @@ Do not hesitate to complete it or suggest areas for reflection, thank you.
 URL: http://www.puce-et-media.com/les-bases-de-developpement-dun-plugin-pour-wordpress/
 
 ###Nature des fichiers
+* functions.php -- Fonction d'écriture dans le fichier log
 * plugin-01.php -- Bases de déclaration du plugin
 * plugin-02.php -- Vérification de compatibilité
 * plugin-03.php -- Éxécuter une action lors de l'activation / désactivation du plugin
