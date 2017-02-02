@@ -8,9 +8,9 @@ Do not hesitate to complete it or suggest areas for reflection, thank you.
 URL: http://www.puce-et-media.com/les-bases-de-developpement-dun-plugin-pour-wordpress/
 
 ###Nature des fichiers
-1 plugin-01.php -- Bases de déclaration
-2 plugin-02.php -- Vérification de compatibilité
-3 plugin-03.php -- Éxécuter une action lors de l'activation / désactivation du plugin
+* plugin-01.php -- Bases de déclaration
+* plugin-02.php -- Vérification de compatibilité
+* plugin-03.php -- Éxécuter une action lors de l'activation / désactivation du plugin
 
 ##Part II
 URL: coming soon
