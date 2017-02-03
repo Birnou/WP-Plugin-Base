@@ -1,6 +1,6 @@
 <?php
     /*
-        Plugin Name:01 - Un Plugin quelconque
+        Plugin Name:01 - PEM - Un Plugin quelconque
         Plugin URI: https://github.com/Birnou/WP-Plugin-Base
         Description: Travail de mise en place de plugin avec WordPress
         	         et s'assurer de la bonne compatibilité de WordPress
