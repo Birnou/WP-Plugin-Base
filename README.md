@@ -7,7 +7,7 @@ Do not hesitate to complete it or suggest areas for reflection, thank you.
 ## Part I
 URL: http://www.puce-et-media.com/les-bases-de-developpement-dun-plugin-pour-wordpress/
 
-### ature des fichiers
+### Nature des fichiers
 * functions.php -- Fonction d'écriture dans le fichier log
 - --> peut être remplacée par le plug in https://github.com/Birnou/WP-Activate-Debug
 * plugin-01.php -- Bases de déclaration du plugin
