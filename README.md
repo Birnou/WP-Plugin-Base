@@ -4,15 +4,15 @@ The main idea is to approach the implementation of a plugin for WordPress step b
 This series will go by incrementing, proposing a scalable approach and in the longer term global possibilities available.
 Do not hesitate to complete it or suggest areas for reflection, thank you.
 
-##Part I
+## Part I
 URL: http://www.puce-et-media.com/les-bases-de-developpement-dun-plugin-pour-wordpress/
 
-###Nature des fichiers
+### ature des fichiers
 * functions.php -- Fonction d'écriture dans le fichier log
 - --> peut être remplacée par le plug in https://github.com/Birnou/WP-Activate-Debug
 * plugin-01.php -- Bases de déclaration du plugin
 * plugin-02.php -- Vérification de compatibilité
 * plugin-03.php -- Éxécuter une action lors de l'activation / désactivation du plugin
 
-##Part II
+## Part II
 URL: coming soon
